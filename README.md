@@ -4,6 +4,7 @@ Datrics Text-to-SQL engine designed to understand databases effortlessly, turnin
 
 # Whitepaper
 [ResearchGate](https://www.researchgate.net/publication/389944067_Datrics_Text2SQL_A_Framework_for_Natural_Language_to_SQL_Query_Generation)
+[ArXiv](https://arxiv.org/abs/2506.12234)
 
 ## What makes us stand out?
 1. Semantic Layer: 
